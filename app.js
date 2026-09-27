@@ -5,9 +5,9 @@
 
 const SUBJECT_CATALOG = {
   Biology: { code: "BIO", icon: "🧬", description: "Cell biology, genetics, ecology, evolution, microbiology, plant and animal biology.", progress: 0 },
-  Biotechnology: { code: "BIO", icon: "🔬", description: "Biotechnology, recombinant DNA, bioprocessing, molecular techniques and bioinformatics.", progress: 0 },
+  Biotechnology: { code: "BT", icon: "🔬", description: "Biotechnology, recombinant DNA, bioprocessing, molecular techniques and bioinformatics.", progress: 0 },
   Chemistry: { code: "CHEM", icon: "⚗️", description: "Physical, organic and inorganic chemistry.", progress: 0 },
-  Physics: { code: "PHYS", icon: "⚛️", description: "Mechanics, electricity, optics, thermodynamics and modern physics.", progress: 0 },
+  Physics: { code: "PHY", icon: "⚛️", description: "Mechanics, electricity, optics, thermodynamics and modern physics.", progress: 0 },
   Mathematics: { code: "MATH", icon: "∑", description: "Algebra, calculus, probability, statistics and related mathematics.", progress: 0 }
 };
 
